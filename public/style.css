@@ -1,0 +1,12 @@
+.news-item-view {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #cecece;
+}
+.news-item-view:last-child {
+    border-bottom: none;
+}
+
+.news-item-view img {
+    border-radius: 5px;
+}
